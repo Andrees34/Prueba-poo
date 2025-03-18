@@ -1,4 +1,5 @@
 #Creacion de mi primera clase
 Class Autos:
-
 #rt
+#Creacion de los atributos:
+def __init__

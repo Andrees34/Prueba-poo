@@ -1,5 +1,14 @@
 #Creacion de mi primera clase
 Class Autos:
 #rt
+
 #Creacion de los atributos:
-def __init__
+def __init__ (self,color, marca):
+self.color=color
+self.marca=marca
+
+#Cracion de metodo
+def Arrancar(self):
+El auto {self.marca} de color {self.color} esta arrancando
+def Detener(self)
+
